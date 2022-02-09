@@ -1,3 +1,5 @@
 3 steps to ordering a pizza 
 visit website
 place order
+Pay for order
+Get receipt
